@@ -14,7 +14,7 @@ Cette base de bot Disnake permet de créer et gérer facilement plusieurs bots D
    pip install disnake
    ```
 
-2. **Configurer le bot** : Remplacez le `TOKEN` dans `main.py`.
+2. **Configurer le bot** : Remplacez le `TOKEN` dans `main.py`, `bot1.py` et `bot2.py`.
 
 3. **Lancer le bot** :
    ```bash
